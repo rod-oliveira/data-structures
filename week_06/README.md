@@ -18,4 +18,6 @@ week6-report.js = It will run a query for meeting happening on Sunday at 5.
 
 ### Part 2: DynamoDB
 
-pending
+I modified my database, please refer to week6-dynamo-init.js.
+
+The query is in week6-dynamo-search.js
