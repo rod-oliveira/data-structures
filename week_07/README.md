@@ -9,8 +9,14 @@ I also added a piece of code to merge all street name files into one so I can ob
 
 This script will obtain the geocodes for all previously parsed street names and create files with json objects with: street name, latitude, longitude.
 
-#### w7-database.js
+#### w7-db-init.js
 
-This script will add all information into PostgreSQL.
+This script will initialize the database and will create the table to receive all the collected data.
+
+#### w7-db-populate.js
+
+This will add all information into PostgreSQL.
+
+
 
 I'll kep updating the files during the weekend.
