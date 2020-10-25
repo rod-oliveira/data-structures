@@ -7,7 +7,7 @@ I also added a piece of code to merge all street name files into one so I can ob
 
 ####  w7-geo.js
 
-This script will obtain the geocodes for all previously parsed street names and create files with json objects with: street name, latitude, longitude, group name, lcoation name.
+This script will obtain the geocodes for all previously parsed street names and create files with json objects with: street name, latitude, longitude.
 
 #### w7-database.js
 
