@@ -3,6 +3,8 @@
 
 This script scrapes and cleans information about: street names, location names and group names. There will be separate file names per each data type.
 
+I also added a piece of code to merge all street name files into one so I can obtain the coordinates more easily in the next step.
+
 ####  w7-geo.js
 
 This script will obtain the geocodes for all previously parsed street names and create files with json objects with: street name, latitude, longitude, group name, lcoation name.
